@@ -1,0 +1,15 @@
+{
+  "name": "com.vgame.hotreload",
+  "displayName": "VHotReload",
+  "version": "1.0.0",
+  "unity": "2022.3",
+
+  "author": {
+    "name": "flappyzheng",
+    "email": "flappyzheng@tencent.com",
+    "url": ""
+  },
+
+  "dependencies": {
+  }
+}
