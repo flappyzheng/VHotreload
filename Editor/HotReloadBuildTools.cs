@@ -11,7 +11,6 @@ using UnityEditorInternal;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Timers;
-using Aspose.PSD.Xmp.Schemas.XmpDm;
 
 namespace VHotReload
 {
